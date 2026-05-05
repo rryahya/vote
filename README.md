@@ -16,9 +16,9 @@ C:\xampp\htdocs\project\
 
 ### 3. Add candidate photos
 Place photos in `images/candidats/`:
-- `candidate1.jpg` — Amina Diallo
-- `candidate2.jpg` — Ibrahima Ndiaye
-- `candidate3.jpg` — Mariama Sow
+- `candidate1.jpg` — sadam
+- `candidate2.jpg` — husane 2 
+- `candidate3.jpg` — ghadafi
 - `default.png` — fallback
 
 Then open: **http://localhost/project/**
@@ -29,7 +29,7 @@ Then open: **http://localhost/project/**
 
 | Role  | Email          | Password   |
 |-------|----------------|------------|
-| Admin | admin@vote.com | Admin@123  |
+| Admin | yahye@iam.com | 46545644 |
 
 ---
 
